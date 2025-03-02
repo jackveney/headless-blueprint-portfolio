@@ -53,11 +53,10 @@ export default function Component() {
         <div className="container">
           <section className="hero text-center">
             <Heading className={styles.heading} level="h1">
-              Welcome to your Blueprint
+              Welcome to your test homepage for blueprint
             </Heading>
             <p className={styles.description}>
-              Achieve unprecedented performance with modern frameworks and the
-              world&apos;s #1 open source CMS in one powerful headless platform.{' '}
+              TEST TEST TEST TEST.{' '}
             </p>
             <div className={styles.actions}>
               <Button styleType="secondary" href="/contact-us">
@@ -98,7 +97,7 @@ export default function Component() {
               )}
             >
               <span>
-                Learn about Core Web Vitals and how Headless Platform can help
+                test test test. Learn about Core Web Vitals and how Headless Platform can help
                 you reach your most demanding speed and user experience
                 requirements.
               </span>
